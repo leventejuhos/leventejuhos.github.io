@@ -1,0 +1,40 @@
+{
+  "title": {
+    "menu1": "Tanúsítás",
+    "menu2": "Kapcsolat",
+    "maintitle": "Épületenergetikai tanúsítvány és auditálás",
+    "subtitle": "Kovászna és Brassó megyében",
+    "button": "Érdekel",
+    "contact": "Rendelésfelvétel:"
+  } ,
+  "profile":{
+    "name": "Juhos Levente",
+    "text1": "20+ év mérnöki munkatapasztalat",
+    "text2": "Gyors, pontos munkavégzés",
+    "text3": "Minden hétköznap 8:00-tól este 21:00-ig várom a hívását.",
+    "text4": "Keressen bizalommal!"
+  },
+  "steps":{
+    "title": "A tanúsítás menete",
+    "step1": {
+      "title": "1. Adatok rögzítése, időpont egyeztetése",
+      "description1": "A szükséges adatokat egyeztetjük:",
+      "description2": "név, telefonszám, tanúsítandó ingatlan pontos címe, a tanúsítvány kiállításának határideje."
+    },
+    "step2": {
+      "title": "2. Helyszíni felmérés",
+      "description1": "A tanúsítandó ingatlan helyszíni felmérése nagyjából 30-40 percet vesz igénybe. A tanúsítás gördülékenysége érdekében kérem, készítse elő az épület helyrajzi számát."
+    },
+    "step3": {
+      "title": "3. Tanúsítvány kiállítása és hitelesítése",
+      "description1": "A felmért adatok alapján elvégzem a tanúsítványhoz szükséges számításokat. Ezután kiállítom a tanúsítványt és a szabványoknak megfelelően hitelesítem."
+    },
+    "step4": {
+      "title": "4. Tanúsítvány kézbesítése",
+      "description1": "A papír alapú tanúsítványt eljuttatom az Ön címére. Amennyiben rendkívül sürgős, akár 24 órán belül el tudom készíteni Önnek a kért tanúsítványt."
+    }
+  },
+  "footer":{
+    "location": "520023 Sepsiszentgyörgy, Árkosi u. 61"
+  }
+}

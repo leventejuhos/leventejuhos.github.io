@@ -1,0 +1,33 @@
+<nav class="bg-dark-gradient fixed-top navbar navbar-expand" id="mainNav">
+    <div class="container d-flex">
+        <ul class="navbar-nav mx-5">
+            <li class="nav-item d-none d-md-block"><a i18n class="nav-link" href="#steps">{{"title.menu1" | translate}}</a></li>
+            <li class="nav-item d-none d-md-block"><a i18n="title.menu2" class="nav-link" href="#profile">{{"title.menu2" | translate}}</a></li>
+            <li class="nav-item"><a class="nav-link pe-1" (click)="useLanguage('hu')">HU</a></li>
+            <li class="nav-item"><a class="nav-link ps-1" (click)="useLanguage('ro')">RO</a></li>
+        </ul>
+    </div>
+</nav>
+
+<!-- Masthead-->
+<header class="masthead">
+    <div class="container px-4 px-lg-5 d-flex h-100 align-items-center justify-content-center">
+        <div class="d-flex justify-content-center">
+            <div class="text-center">
+                <h1 i18n="címoldal" class="mx-auto my-0 text-uppercase">{{"title.maintitle" | translate}}</h1>
+                <h2 i18n="címoldal" class="text-white mx-auto mt-2 mb-5">{{"title.subtitle" | translate}}</h2>
+                <a i18n="címoldal gomb" class="btn btn-secondary" href="#profile">{{"title.button" | translate}}</a>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!--Bottom-->
+<nav class="navbar navbar-expand-lg navbar-light fixed-bottom d-flex bottom-5 row">
+    <div class="container px-4 px-lg-5 align-items-center justify-content-start blur-hard rounded">
+        <img class="img-fluid m-3 mt-2 mb-lg-0 col-2" width="150" src="assets/img/bg-certificate-house-logo.svg"
+            alt="house" />
+        <a i18n="telefonszám banner" class="text-secondary text-uppercase phone col">{{"title.contact" | translate}}</a>
+        <a class="text-secondary text-uppercase phone col" href="{{tel}}">{{tel}}</a>
+    </div>
+</nav>

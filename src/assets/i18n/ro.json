@@ -1,0 +1,40 @@
+{
+  "title": {
+    "menu1": "Certificare",
+    "menu2": "Contact",
+    "maintitle": "Certificarea și auditul energetic al clădirilor",
+    "subtitle": "in judetele Covasna si Brașov",
+    "button": "sunt interesat",
+    "contact": "Comanda:"
+  } ,
+  "profile":{
+    "name": "Levente Juhos",
+    "text1": "20 de ani de experiență în muncă inginerească",
+    "text2": "Serviciu rapid, precis",
+    "text3": "Aștept cu nerăbdare apelul dvs. în fiecare zi a săptămânii 8:00-21:00.",
+    "text4": "Caută cu încredere!"
+  },
+  "steps":{
+    "title": "Procesul de certificare",
+    "step1": {
+      "title": "1. Înregistrarea datelor, aranjarea vizitului clădirii",
+      "description1": "Înregistrarea datelor necesare:",
+      "description2": "denumire, numărul de telefon, adresa exactă a imobilului de certificat, termenul de eliberare a certificatului."
+    },
+    "step2": {
+      "title": "2. Vizita la fața locului",
+      "description1": "Inspecția la fața locului asupra proprietății care urmează să fie certificată durează aproximativ 30-40 de minute. Pentru ca certificarea să funcționeze fără probleme, vă rugăm să pregătiți numărul topografic al clădirii."
+    },
+    "step3": {
+      "title": "3. Eliberarea și autentificarea unui certificat",
+      "description1": "Pe baza datelor sondate, efectuez calculele necesare pentru certificat. Eliberez apoi certificatul si îl certific conform standardelor."
+    },
+    "step4": {
+      "title": "4. Livrarea certificatului",
+      "description1": "Voi livra certificatul pe hârtie la adresa dumneavoastră. Dacă este extrem de urgent, vă pot pregăti certificatul solicitat în 24 de ore."
+    }
+  },
+  "footer":{
+    "location": "520023 Sfântu Gheorghe, Strada Arcușului 61"
+  }
+}

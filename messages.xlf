@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="hu" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="8822684805719553355" datatype="html">
+        <source>20+ év mérnöki munkatapasztalat</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/profile/profile.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+        <note priority="1" from="description">bemutatkozás</note>
+      </trans-unit>
+      <trans-unit id="2353368520245524905" datatype="html">
+        <source>Gyors, pontos munkavégzés</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/profile/profile.component.html</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <note priority="1" from="description">bemutatkozás</note>
+      </trans-unit>
+      <trans-unit id="3211752432284746372" datatype="html">
+        <source>Minden hétköznap 8:00-tól este 20:00-ig várom a hívását.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/profile/profile.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+        <note priority="1" from="description">bemutatkozás</note>
+      </trans-unit>
+      <trans-unit id="1422377926243526744" datatype="html">
+        <source>Keressen bizalommal!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/profile/profile.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <note priority="1" from="description">bemutatkozás</note>
+      </trans-unit>
+      <trans-unit id="175946190483813578" datatype="html">
+        <source>Publikációim</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/research/research.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <note priority="1" from="description">publikációk címmező</note>
+      </trans-unit>
+      <trans-unit id="5216082520663807950" datatype="html">
+        <source>Weboldal</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/research/research.component.html</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+        <note priority="1" from="description">publikáció weboldal</note>
+      </trans-unit>
+      <trans-unit id="3128676391055488879" datatype="html">
+        <source>Elolvasom</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/research/research.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+        <note priority="1" from="description">publikáció link</note>
+      </trans-unit>
+      <trans-unit id="8818311045966700733" datatype="html">
+        <source>A tanúsítás menete</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/steps/steps.component.html</context>
+          <context context-type="linenumber">5</context>
+        </context-group>
+        <note priority="1" from="description">tanúsítás címmező</note>
+      </trans-unit>
+      <trans-unit id="1042190953867633003" datatype="html">
+        <source>1. Adatok rögzítése, időpont egyeztetése</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/steps/steps.component.html</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8596803359327197855" datatype="html">
+        <source>A szükséges adatokat egyeztetjük: </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/steps/steps.component.html</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4829181953864871504" datatype="html">
+        <source>név, telefonszám, tanúsítandó ingatlan pontos címe, a tanúsítvány kiállításának határideje.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/steps/steps.component.html</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="558613254547084819" datatype="html">
+        <source>2. Helyszíni felmérés</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/steps/steps.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3915349128641666936" datatype="html">
+        <source>A tanúsítandó ingatlan helyszíni felmérése nagyjából 30-40 percet vesz igénybe. A tanúsítás gördülékenysége érdekében kérem, készítse elő az épület helyrajzi számát. </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/steps/steps.component.html</context>
+          <context context-type="linenumber">26,27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4467335289299003595" datatype="html">
+        <source>3. Tanúsítvány kiállítása és hitelesítése</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/steps/steps.component.html</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2925029724909587675" datatype="html">
+        <source>A felmért adatok alapján elvégzem a tanúsítványhoz szükséges számításokat. Ezután kiállítom a tanúsítványt és a szabványoknak megfelelően hitelesítem.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/steps/steps.component.html</context>
+          <context context-type="linenumber">38,39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="743092428795247197" datatype="html">
+        <source>4. Tanúsítvány kézbesítése</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/steps/steps.component.html</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6273619526010342639" datatype="html">
+        <source>A papír alapú tanúsítványt eljuttatom az Ön címére. Amennyiben rendkívül sürgős, akár 24 órán belül el tudom készíteni Önnek a kért tanúsítványt.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/steps/steps.component.html</context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6298936970914682955" datatype="html">
+        <source>Tanúsítás</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/title/title.component.html</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+        <note priority="1" from="description">{menu.tanusitas}</note>
+      </trans-unit>
+      <trans-unit id="2516516809680865471" datatype="html">
+        <source>Kapcsolat</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/title/title.component.html</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <note priority="1" from="description">{menu.kapcsolat}</note>
+      </trans-unit>
+      <trans-unit id="1234093755227330685" datatype="html">
+        <source>Épületenergetikai tanúsítvány és auditálás</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/title/title.component.html</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <note priority="1" from="description">címoldal</note>
+      </trans-unit>
+      <trans-unit id="3394305767784054912" datatype="html">
+        <source>Kovászna és Brassó megyében</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/title/title.component.html</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+        <note priority="1" from="description">címoldal</note>
+      </trans-unit>
+      <trans-unit id="8182038999709249317" datatype="html">
+        <source>Érdekel</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/title/title.component.html</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+        <note priority="1" from="description">címoldal gomb</note>
+      </trans-unit>
+      <trans-unit id="5294394858636292289" datatype="html">
+        <source>Rendelésfelvétel:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/title/title.component.html</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+        <note priority="1" from="description">telefonszám banner</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
