@@ -11559,13 +11559,17 @@ body {
 .phone{
   width: 100%;
   /*background: linear-gradient(rgba(0, 70, 80, 0.8), rgba(0, 70, 80, 0.4));*/
-  font-size: 3rem;
-  letter-spacing: 0.5rem;
+  font-size: 3vw;
+  letter-spacing: 0.5vw;
   font-weight: 700;
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
+  padding-top: 0.5vw;
+  padding-bottom: 0.5vw;
   text-align: center;
   text-decoration: none;
+}
+.phone-footer{  
+  height: 100vh;
+  max-height: 25vh;
 }
 
 .bg-dark-gradient{
@@ -11724,7 +11728,6 @@ body {
 .contact-section .social a:active {
   color: #fff;
 }
-
 .footer {
-  padding: 5rem 0;
+  padding: 5rem 0;  
 }
