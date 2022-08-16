@@ -1,37 +1,43 @@
 {
   "title": {
-    "menu1": "Tanúsítás",
-    "menu2": "Kapcsolat",
+    "menu1": "Szolgáltatásaink",
+    "menu2": "Elérhetőség",
     "maintitle": "Épületenergetikai tanúsítvány és auditálás",
-    "subtitle": "Kovászna és Brassó megyében",
-    "button": "Érdekel",
-    "contact": "Rendelésfelvétel:"
+    "subtitle1": "épületenergetikai auditor:",
+    "subtitle2": "Juhos Levente épületenergetikus",
+    "button": "Elérhetőség",
+    "contact": "Telefon:"
   } ,
   "profile":{
     "name": "Juhos Levente",
-    "text1": "20+ év mérnöki munkatapasztalat",
-    "text2": "Gyors, pontos munkavégzés",
+    "text1": "20 év épületenergetikai tapasztalat",
+    "text2": "Gyors, pontos kiszolgálás",
     "text3": "Minden hétköznap 8:00-tól este 21:00-ig várom a hívását.",
     "text4": "Keressen bizalommal!"
   },
   "steps":{
-    "title": "A tanúsítás menete",
+    "title": "Szolgáltatásaink",
     "step1": {
-      "title": "1. Adatok rögzítése, időpont egyeztetése",
-      "description1": "A szükséges adatokat egyeztetjük:",
-      "description2": "név, telefonszám, tanúsítandó ingatlan pontos címe, a tanúsítvány kiállításának határideje."
+      "title": "Energetikai tanúsítványok kiállítása bármilyen kategóriájú épületre",
+      "description1": "adásvételi szerződésekhez",
+      "description2": "új épületek átadásához",
+      "description3": "bérleti szerződésekhez"
     },
     "step2": {
-      "title": "2. Helyszíni felmérés",
-      "description1": "A tanúsítandó ingatlan helyszíni felmérése nagyjából 30-40 percet vesz igénybe. A tanúsítás gördülékenysége érdekében kérem, készítse elő az épület helyrajzi számát."
+      "title": "Energetikai auditok készítése bármely épülettípushoz",
+      "description1": ""
     },
     "step3": {
-      "title": "3. Tanúsítvány kiállítása és hitelesítése",
-      "description1": "A felmért adatok alapján elvégzem a tanúsítványhoz szükséges számításokat. Ezután kiállítom a tanúsítványt és a szabványoknak megfelelően hitelesítem."
+      "title": "Tanácsadás és energiamérleg készítése tervezési fázisban, energetikai renováláshoz",
+      "description1": ""
     },
     "step4": {
-      "title": "4. Tanúsítvány kézbesítése",
-      "description1": "A papír alapú tanúsítványt eljuttatom az Ön címére. Amennyiben rendkívül sürgős, akár 24 órán belül el tudom készíteni Önnek a kért tanúsítványt."
+      "title": "Épülettervek ellenőrzése nZEB normák szerint, tanulmányok alternatív épületenergetikai rendszerek beépítéséhez",
+      "description1": ""
+    },
+    "step5":{
+      "title": "Tanácsadás, méretezés és gazdasági számítások készítése megújuló energiaforrásokat használó berendezésekhez (fotovoltaikus, termoszoláris rendszerek, hőszivattyúk telepítéséhez)",
+      "description1": ""
     }
   },
   "footer":{

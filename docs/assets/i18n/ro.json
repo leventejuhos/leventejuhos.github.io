@@ -1,37 +1,42 @@
 {
   "title": {
-    "menu1": "Certificare",
+    "menu1": "Servicii",
     "menu2": "Contact",
-    "maintitle": "Certificarea și auditul energetic al clădirilor",
-    "subtitle": "in judetele Covasna si Brașov",
-    "button": "sunt interesat",
-    "contact": "Comanda:"
+    "maintitle": "Certificate energetice și audit energetic pentru clădiri",
+    "subtitle1": "auditor energetic grd. I, contrucții și instalații",
+    "subtitle2": "ing. Juhos Levente",
+    "button": "Contact",
+    "contact": "Telefon:"
   } ,
   "profile":{
-    "name": "Levente Juhos",
-    "text1": "20 de ani de experiență în muncă inginerească",
+    "name": "Juhos Levente",
+    "text1": "20 de ani de experiență în energetica clădirilor",
     "text2": "Serviciu rapid, precis",
-    "text3": "Aștept cu nerăbdare apelul dvs. în fiecare zi a săptămânii 8:00-21:00.",
-    "text4": "Caută cu încredere!"
+    "text3": "Aștept apelul dvs. în fiecare zi a săptămânii 8:00-21:00.",
+    "text4": "Adresați-vă cu încredere!"
   },
   "steps":{
-    "title": "Procesul de certificare",
+    "title": "Serviciile noastre",
     "step1": {
-      "title": "1. Înregistrarea datelor, aranjarea vizitului clădirii",
-      "description1": "Înregistrarea datelor necesare:",
-      "description2": "denumire, numărul de telefon, adresa exactă a imobilului de certificat, termenul de eliberare a certificatului."
+      "title": "Elaborare certificate energetice pentru orice categorie de clădire, necesare:",
+      "description1": "la contracte de vânzare-cumpărare necesare la notarul public",
+      "description2": "la recepția contrucțiilor noi",
+      "description3": "la contracte de închiriere"
     },
     "step2": {
-      "title": "2. Vizita la fața locului",
-      "description1": "Inspecția la fața locului asupra proprietății care urmează să fie certificată durează aproximativ 30-40 de minute. Pentru ca certificarea să funcționeze fără probleme, vă rugăm să pregătiți numărul topografic al clădirii."
+      "title": "Elaborarea de audituri energetice pentru orice categorie de clădire",
+      "description1": ""
     },
     "step3": {
-      "title": "3. Eliberarea și autentificarea unui certificat",
-      "description1": "Pe baza datelor sondate, efectuez calculele necesare pentru certificat. Eliberez apoi certificatul si îl certific conform standardelor."
+      "title": "Consultanță, soluții și elaborare de bilanț energetic în fază de proiectare sau reabilitare energetică a clădirilor și instalațiilor aferente acestora",
+      "description1": ""
     },
     "step4": {
-      "title": "4. Livrarea certificatului",
-      "description1": "Voi livra certificatul pe hârtie la adresa dumneavoastră. Dacă este extrem de urgent, vă pot pregăti certificatul solicitat în 24 de ore."
+      "title": "Elaborare de rapoarte de conformare nZEB și studii pentru sisteme alternative de înaltă eficiență",
+      "description1": ""
+    },
+    "step5": {
+      "title": "Consultanță, soluții și calcule tehnico-economice pentru implementarea instalațiilor cu surse regenerabile de energie (panouri fotovoltaice și termosolare și pope de căldură)"
     }
   },
   "footer":{
