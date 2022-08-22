@@ -14,7 +14,7 @@ export class TitleComponent implements OnInit {
   constructor(private dataService: DataService, 
     private translate: TranslateService) {
     translate.addLangs(['hu', 'ro']);
-    translate.setDefaultLang('hu');
+    translate.setDefaultLang('ro');
     translate.use('ro');
   }
 
@@ -23,7 +23,6 @@ export class TitleComponent implements OnInit {
   }
 
   public useLanguage(language: string): void{
-    console.log("switch to language: " + language);
     this.translate.use(language);
   }
 }

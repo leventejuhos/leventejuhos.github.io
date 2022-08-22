@@ -8,7 +8,6 @@ import { DataService } from 'src/app/services/data.service';
 })
 export class ProfileComponent implements OnInit {
 
-  name: string;
   tel: string;
   email: string;
 
@@ -16,7 +15,6 @@ export class ProfileComponent implements OnInit {
 
   ngOnInit(): void {
     this.tel = this.dataService.tel
-    this.name = this.dataService.name
     this.email = this.dataService.email
   }
 

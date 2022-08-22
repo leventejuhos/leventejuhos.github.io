@@ -8,7 +8,6 @@ import { DataService } from 'src/app/services/data.service';
 })
 export class OrderPanelComponent implements OnInit {
 
-  location: string;
   tel: string;
   email: string;
 
@@ -16,7 +15,6 @@ export class OrderPanelComponent implements OnInit {
 
   ngOnInit(): void {
     this.tel = this.dataService.tel
-    this.location = this.dataService.location
     this.email = this.dataService.email
   }
 
