@@ -23,7 +23,7 @@ export class TitleComponent implements OnInit {
   }
 
   public useLanguage(language: string): void{
+    console.log("switch to language: " + language);
     this.translate.use(language);
   }
-
 }
